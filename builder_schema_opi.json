@@ -1,0 +1,32 @@
+{
+  "Radiowoz OPI": {
+    "count": 3,
+    "crew": 2,
+    "education": null
+  },
+  "Furgonetka policyjna": {
+    "count": 3,
+    "crew": 2,
+    "education": null
+  },
+  "Radiowoz WRD": {
+    "count": 3,
+    "crew": 1,
+    "education": ["Szkolenie Personalne WRD"]
+  },
+  "APRD": {
+    "count": 1,
+    "crew": 2,
+    "education": ["Szkolenie Personalne WRD"]
+  },
+  "Opancerzony Pojazd SPKP": {
+    "count": 2,
+    "crew": 6,
+    "education": ["SPKP"]
+  },
+  "K-9": {
+    "count": 2,
+    "crew": 1,
+    "education": ["K-9"]
+  }
+}

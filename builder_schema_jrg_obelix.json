@@ -1,0 +1,67 @@
+{
+  "GCBARt": {
+    "count": 6,
+    "crew": 2,
+    "education": null
+  },
+   "SCCn": {
+    "count": 1,
+    "crew": 1,
+    "education": null
+  },
+   "SPgaz": {
+    "count": 1,
+    "crew": 1,
+    "education": null
+  },
+  "SW": {
+    "count": 1,
+    "crew": 1,
+    "education": null
+  },
+  "SCDz": {
+    "count": 1,
+    "crew": 1,
+    "education": null
+  },
+  "GCPr": {
+    "count": 2,
+    "crew": 2,
+    "education": null
+  },
+  "SD": {
+    "count": 1,
+    "crew": 1,
+    "education": null
+  },
+  "SLOp": {
+    "count": 1,
+    "crew": 1,
+    "education": null
+  },
+  "SH": {
+    "count": 1,
+    "crew": 1,
+    "education": null
+  },
+  "SLRr": {
+    "count": 1,
+    "crew": 1,
+    "education": null
+  },
+  "SRChem": {
+    "count": 2,
+    "crew": 3,
+    "education": ["Ratownictwo chemiczne"]
+  },
+  "SRWys": {
+    "count": 1,
+    "crew": 3,
+    "education": ["SRWys"]
+  },
+  "SDl": {
+    "count": 1,
+    "crew": 2,
+    "education": ["Szkolenie w dowodzeniu"]
+  }
+}

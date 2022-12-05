@@ -1,0 +1,8 @@
+webdriver_manager
+selenium
+click
+requests
+unidecode
+click_config_file
+termcolor
+sqlite-orm

@@ -1,0 +1,19 @@
+Metadata-Version: 2.0
+Name: sqlite-orm
+Version: 0.0.2b0
+Summary: A Python object relational mapper for SQLite.
+Home-page: https://github.com/fernandojunior/python-sqlite-orm
+Author: Fernando Felix do Nascimento Junior
+Author-email: UNKNOWN
+License: MIT License
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+
+UNKNOWN
+
+

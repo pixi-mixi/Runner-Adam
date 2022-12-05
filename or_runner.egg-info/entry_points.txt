@@ -1,0 +1,4 @@
+[console_scripts]
+builder = builder:builder
+dispatcher = dispatcher_v2:dispatcher
+runner = runner:runner
